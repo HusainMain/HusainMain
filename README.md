@@ -1,35 +1,265 @@
-# 💫 About Me:
-🔭 I’m currently working on<br>Building practical software projects and experimenting with AI-powered solutions<br>👯 I’m looking to collaborate on<br>Open-source projects, hackathons, and innovative ideas<br>🤝 I’m looking for help with<br>System design, AI integration, and building scalable applications<br>🌱 I’m currently learning<br>AI/ML, cloud computing, backend development, and software architecture<br>💬 Ask me about<br>React, TypeScript, Java, Python, web development, and project building<br>⚡ Fun fact<br>Always building something.
+<div align="center">
 
+# 👋 Hi, I'm Husain Bardanwala
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/husainbardanwala65/?__pwa=1) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/husain-bardanwala-93a56b376/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:husainbardanwala65@gmail.com) 
+### `Computer Engineering Student` • `Developer` • `Builder`
 
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=plastic&logo=c&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=plastic&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=plastic&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=plastic&logo=python&logoColor=ffdd54) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=plastic&logo=amazon-aws&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=plastic&logo=firebase) ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=plastic&logo=render&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=plastic&logo=vercel&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=plastic&logo=express&logoColor=%2361DAFB) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=plastic&logo=fastapi) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=plastic&logo=flask&logoColor=white) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=plastic&logo=Flutter&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=plastic&logo=next.js&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=plastic&logo=node.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=plastic&logo=react&logoColor=%2361DAFB) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=plastic&logo=react&logoColor=%2361DAFB) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=plastic&logo=firebase&logoColor=ffcd34) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=plastic&logo=mysql&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=plastic&logo=supabase&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=plastic&logo=Canva&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=plastic&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=plastic&logo=numpy&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=plastic&logo=PyTorch&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=plastic&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=plastic&logo=github&logoColor=white) ![Playwright](https://img.shields.io/badge/-playwright-%232EAD33?style=plastic&logo=playwright&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=HusainMain&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://streak-stats.demolab.com/?user=HusainMain&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=HusainMain&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+**Building practical software • Exploring AI • Learning every day**
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko)
+<br>
+
+<a href="YOUR_LINKEDIN_URL">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+<a href="YOUR_INSTAGRAM_URL">
+  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+</a>
+<a href="mailto:husainbardanwala65@gmail.com">
+  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+
+</div>
 
 ---
-[![](https://komarev.com/ghpvc/?username=HusainMain&icon=10&color=8)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-<!--
-**HusainMain/HusainMain** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🧑‍💻 About Me
 
-Here are some ideas to get you started:
+<table>
+<tr>
+<td width="55%">
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I enjoy turning ideas into working software and exploring how **AI, cloud, and modern software architecture** can solve practical problems.
+
+Currently focused on becoming a stronger **software engineer** through projects, hackathons, problem solving, and continuous learning.
+
+</td>
+
+<td width="45%">
+
+🔭 **Building**  
+Practical software & AI-powered projects
+
+🌱 **Exploring**  
+AI/ML • Cloud • Backend • System Design
+
+🧩 **DSA**  
+40+ LeetCode problems
+
+🏆 **Interested in**  
+Hackathons • Open Source • Innovation
+
+</td>
+</tr>
+</table>
+
+---
+
+# 🚀 Featured Projects
+
+<table>
+<tr>
+
+<td width="50%" valign="top">
+
+### 🌐 Portfolio
+
+Personal developer portfolio showcasing my projects, skills, experiments, and journey as a Computer Engineering student.
+
+**[View Repository →](YOUR_PORTFOLIO_REPO_LINK)**
+
+</td>
+
+<td width="50%" valign="top">
+
+### 💡 IdeaBridge
+
+AI-powered startup guidance platform designed to help turn early-stage ideas into actionable startup journeys.
+
+**[View Repository →](YOUR_IDEABRIDGE_REPO_LINK)**
+
+</td>
+
+</tr>
+
+<tr>
+
+<td width="50%" valign="top">
+
+### 🎓 iEMS
+
+**Integrated Education Management System**
+
+A platform designed to streamline student management and academic workflows through a centralized system.
+
+**[View Repository →](YOUR_IEMS_REPO_LINK)**
+
+</td>
+
+<td width="50%" valign="top">
+
+### 🏥 Java Appointment Scheduler
+
+Java-based healthcare appointment system featuring doctor management, patient registration, conflict prevention, and waitlists.
+
+**[View Repository →](YOUR_APPOINTMENT_REPO_LINK)**
+
+</td>
+
+</tr>
+
+<tr>
+
+<td width="50%" valign="top">
+
+### 🦅 BuildEx Website
+
+Modern website for BuildEx, an entrepreneurship and startup club focused on helping students turn ideas into execution.
+
+**[View Repository →](YOUR_BUILDEX_REPO_LINK)**
+
+</td>
+
+<td width="50%" valign="top">
+
+### 🔨 More Coming Soon...
+
+Always experimenting with new ideas, technologies, and ways to build better software.
+
+</td>
+
+</tr>
+</table>
+
+---
+
+## 🧠 Currently Exploring
+
+<div align="center">
+
+| 🤖 AI / ML | ☁️ Cloud | ⚙️ Backend | 🏗️ System Design |
+|:---:|:---:|:---:|:---:|
+| Machine Learning | AWS | APIs | Architecture |
+| PyTorch | Cloud Deployment | Node.js | Scalability |
+| AI Applications | Serverless | FastAPI | Clean Systems |
+
+</div>
+
+---
+
+# 💻 Tech Stack
+
+### Languages
+
+<p>
+<img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
+<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+</p>
+
+### Frontend & Mobile
+
+<p>
+<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+<img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white"/>
+<img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+<img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white"/>
+</p>
+
+### Backend
+
+<p>
+<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white"/>
+<img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white"/>
+<img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white"/>
+<img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white"/>
+</p>
+
+### Database & Cloud
+
+<p>
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+<img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white"/>
+<img src="https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white"/>
+<img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
+<img src="https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=white"/>
+</p>
+
+### AI, Data & Tools
+
+<p>
+<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"/>
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white"/>
+</p>
+
+---
+
+# 🧩 Problem Solving
+
+<div align="center">
+
+### 40+ LeetCode Problems
+
+**Practicing Data Structures & Algorithms across core topics**
+
+<br>
+
+<img src="https://leetcard.jacoblin.cool/YOUR_LEETCODE_USERNAME?theme=dark&font=baloo&ext=heatmap" width="500"/>
+
+</div>
+
+---
+
+# 📊 GitHub Activity
+
+<div align="center">
+
+<img src="https://github-readme-stats.shion.dev/api?username=HusainMain&theme=dark&hide_border=true&include_all_commits=false&count_private=false" height="170"/>
+
+<img src="https://streak-stats.demolab.com/?user=HusainMain&theme=dark&hide_border=true" height="170"/>
+
+</div>
+
+<br>
+
+<div align="center">
+
+<img src="https://github-readme-stats.shion.dev/api/top-langs/?username=HusainMain&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact" height="150"/>
+
+</div>
+
+---
+
+## ⚡ Beyond Code
+
+<table>
+<tr>
+<td align="center">🏏</td>
+<td><b>Cricket</b><br>Playing, competing and being part of team sports.</td>
+</tr>
+<tr>
+<td align="center">🏓</td>
+<td><b>Table Tennis</b><br>Another way I like to stay competitive outside coding.</td>
+</tr>
+<tr>
+<td align="center">💡</td>
+<td><b>Ideas</b><br>If I get an interesting idea, my first instinct is usually to build it.</td>
+</tr>
+</table>
+
+---
+
+<div align="center">
+
+### ⚡ Keep Building. Keep Learning. Keep Improving.
+
+<br>
+
+<img src="https://komarev.com/ghpvc/?username=HusainMain&style=flat-square&color=blue" alt="Profile Views"/>
+
+</div>
