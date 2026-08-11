@@ -24,33 +24,61 @@
 
 ## 🧑‍💻 About Me
 
+<div align="center">
+
+I enjoy turning ideas into working software and exploring how **AI, cloud, and modern software architecture**  
+can be used to solve practical problems.
+
+I'm currently focused on becoming a stronger **software engineer** through projects, hackathons,  
+problem solving, and continuous learning.
+
+<br>
+
 <table>
 <tr>
-<td width="55%">
+<td align="center" width="25%">
 
-I enjoy turning ideas into working software and exploring how **AI, cloud, and modern software architecture** can solve practical problems.
+🔨  
+**Building**
 
-Currently focused on becoming a stronger **software engineer** through projects, hackathons, problem solving, and continuous learning.
+Practical software  
+& AI-powered projects
 
 </td>
 
-<td width="45%">
+<td align="center" width="25%">
 
-🔭 **Building**  
-Practical software & AI-powered projects
+🌱  
+**Exploring**
 
-🌱 **Exploring**  
-AI/ML • Cloud • Backend • System Design
+AI/ML • Cloud  
+Backend • System Design
 
-🧩 **DSA**  
-40+ LeetCode problems
+</td>
 
-🏆 **Interested in**  
-Hackathons • Open Source • Innovation
+<td align="center" width="25%">
+
+🧩  
+**DSA**
+
+40+ LeetCode  
+problems
+
+</td>
+
+<td align="center" width="25%">
+
+🏆  
+**Interested In**
+
+Hackathons • Open Source  
+Innovation
 
 </td>
 </tr>
 </table>
+
+</div>
 
 ---
 
@@ -203,13 +231,19 @@ Always experimenting with new ideas, technologies, and ways to build better soft
 
 <div align="center">
 
-### 40+ LeetCode Problems
+### 🧠 40+ LeetCode Problems
 
 **Practicing Data Structures & Algorithms across core topics**
 
 <br>
 
-<img src="https://leetcard.jacoblin.cool/YOUR_LEETCODE_USERNAME?theme=dark&font=baloo&ext=heatmap" width="500"/>
+<a href="YOUR_LEETCODE_PROFILE_URL">
+<img src="https://img.shields.io/badge/LeetCode-40%2B%20Problems-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/>
+</a>
+
+<br><br>
+
+`Arrays` • `Strings` • `Linked Lists` • `Stacks` • `Queues` • `Trees` • `Searching` • `Sorting`
 
 </div>
 
@@ -223,11 +257,7 @@ Always experimenting with new ideas, technologies, and ways to build better soft
 
 <img src="https://streak-stats.demolab.com/?user=HusainMain&theme=dark&hide_border=true" height="170"/>
 
-</div>
-
-<br>
-
-<div align="center">
+<br><br>
 
 <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=HusainMain&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact" height="150"/>
 
@@ -235,22 +265,62 @@ Always experimenting with new ideas, technologies, and ways to build better soft
 
 ---
 
-## ⚡ Beyond Code
+# ⚡ Beyond Code
+
+<div align="center">
 
 <table>
 <tr>
-<td align="center">🏏</td>
-<td><b>Cricket</b><br>Playing, competing and being part of team sports.</td>
-</tr>
-<tr>
-<td align="center">🏓</td>
-<td><b>Table Tennis</b><br>Another way I like to stay competitive outside coding.</td>
-</tr>
-<tr>
-<td align="center">💡</td>
-<td><b>Ideas</b><br>If I get an interesting idea, my first instinct is usually to build it.</td>
+
+<td align="center" width="20%">
+
+### 🏏
+**Cricket**
+
+Playing, competing and being part of team sports.
+
+</td>
+
+<td align="center" width="20%">
+
+### 🏓
+**Table Tennis**
+
+Staying competitive and active outside coding.
+
+</td>
+
+<td align="center" width="20%">
+
+### ♟️
+**Chess**
+
+Enjoying strategy, problem solving and competitive thinking.
+
+</td>
+
+<td align="center" width="20%">
+
+### 🏐
+**Volleyball**
+
+Teamwork, competition and staying active.
+
+</td>
+
+<td align="center" width="20%">
+
+### 💡
+**Ideas**
+
+If I get an interesting idea, my first instinct is usually to build it.
+
+</td>
+
 </tr>
 </table>
+
+</div>
 
 ---
 
