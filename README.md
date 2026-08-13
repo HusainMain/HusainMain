@@ -93,7 +93,7 @@ Innovation
 
 Personal developer portfolio showcasing my projects, skills, experiments, and journey as a Computer Engineering student.
 
-**[View Repository →](YOUR_PORTFOLIO_REPO_LINK)**
+**[View Repository →](https://github.com/HusainMain/husain-portfolio)**
 
 </td>
 
