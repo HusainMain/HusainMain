@@ -1,335 +1,78 @@
-<div align="center">
-
-# 👋 Hi, I'm Husain Bardanwala
-
-### `Computer Engineering Student` • `Developer` • `Builder`
-
-**Building practical software • Exploring AI • Learning every day**
-
-<br>
-
-<a href="YOUR_LINKEDIN_URL">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
-<a href="YOUR_INSTAGRAM_URL">
-  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
-</a>
-<a href="mailto:husainbardanwala65@gmail.com">
-  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
-
-</div>
-
----
-
-## 🧑‍💻 About Me
-
-<div align="center">
-
-I enjoy turning ideas into working software and exploring how **AI, cloud, and modern software architecture**  
-can be used to solve practical problems.
-
-I'm currently focused on becoming a stronger **software engineer** through projects, hackathons,  
-problem solving, and continuous learning.
-
-<br>
-
-<table>
-<tr>
-<td align="center" width="25%">
-
-🔨  
-**Building**
-
-Practical software  
-& AI-powered projects
-
-</td>
-
-<td align="center" width="25%">
-
-🌱  
-**Exploring**
-
-AI/ML • Cloud  
-Backend • System Design
-
-</td>
-
-<td align="center" width="25%">
-
-🧩  
-**DSA**
-
-40+ LeetCode  
-problems
-
-</td>
-
-<td align="center" width="25%">
-
-🏆  
-**Interested In**
-
-Hackathons • Open Source  
-Innovation
-
-</td>
-</tr>
-</table>
-
-</div>
-
----
-
-# 🚀 Featured Projects
-
-<table>
-<tr>
-
-<td width="50%" valign="top">
-
-### 🌐 Portfolio
-
-Personal developer portfolio showcasing my projects, skills, experiments, and journey as a Computer Engineering student.
-
-**[View Repository →](https://github.com/HusainMain/husain-portfolio)**
-
-</td>
-
-<td width="50%" valign="top">
-
-### 💡 IdeaBridge
-
-AI-powered startup guidance platform designed to help turn early-stage ideas into actionable startup journeys.
-
-**[View Repository →](YOUR_IDEABRIDGE_REPO_LINK)**
-
-</td>
-
-</tr>
-
-<tr>
-
-<td width="50%" valign="top">
-
-### 🎓 iEMS
-
-**Integrated Education Management System**
-
-A platform designed to streamline student management and academic workflows through a centralized system.
-
-**[View Repository →](YOUR_IEMS_REPO_LINK)**
-
-</td>
-
-<td width="50%" valign="top">
-
-### 🏥 Java Appointment Scheduler
-
-Java-based healthcare appointment system featuring doctor management, patient registration, conflict prevention, and waitlists.
-
-**[View Repository →](YOUR_APPOINTMENT_REPO_LINK)**
-
-</td>
-
-</tr>
-
-<tr>
-
-<td width="50%" valign="top">
-
-### 🦅 BuildEx Website
-
-Modern website for BuildEx, an entrepreneurship and startup club focused on helping students turn ideas into execution.
-
-**[View Repository →](YOUR_BUILDEX_REPO_LINK)**
-
-</td>
-
-<td width="50%" valign="top">
-
-### 🔨 More Coming Soon...
-
-Always experimenting with new ideas, technologies, and ways to build better software.
-
-</td>
-
-</tr>
-</table>
-
----
-
-## 🧠 Currently Exploring
-
-<div align="center">
-
-| 🤖 AI / ML | ☁️ Cloud | ⚙️ Backend | 🏗️ System Design |
-|:---:|:---:|:---:|:---:|
-| Machine Learning | AWS | APIs | Architecture |
-| PyTorch | Cloud Deployment | Node.js | Scalability |
-| AI Applications | Serverless | FastAPI | Clean Systems |
-
-</div>
-
----
-
-# 💻 Tech Stack
-
-### Languages
-
-<p>
-<img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
-<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-<img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="assets/banner-dark.png">
+    <img src="assets/banner-light.png" width="880" alt="Husain Bardanwala — software engineer, intelligent systems builder">
+  </picture>
 </p>
 
-### Frontend & Mobile
+`STATUS` Open to a summer 2027 internship  ·  `DEGREE` B.E. Computer Engineering  ·  `CGPA` 8.48 / 10  ·  `BASED` India
 
-<p>
-<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
-<img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white"/>
-<img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
-<img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white"/>
-</p>
+I build software systems end to end — AI as an accelerator, engineering judgment as the final filter. Currently in my third year at SVIT Vasad, shipping full-stack products and data work between semesters.
 
-### Backend
+## `01` — Seven builds, documented.
 
-<p>
-<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white"/>
-<img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white"/>
-<img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white"/>
-<img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white"/>
-</p>
+### [IdeaBridge](https://github.com/HusainMain/ideabridge) — AI startup validation
 
-### Database & Cloud
+A four-step founder intake feeds an Express API that returns SWOT, competitor analysis and a readiness score. Responses are cached and rate-limited; failures come back as mapped error codes rather than raw exceptions.
 
-<p>
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
-<img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white"/>
-<img src="https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white"/>
-<img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
-<img src="https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=white"/>
-</p>
+`React 18` `TypeScript` `Express` `Groq` `Three.js` · [live](https://ideabridge-six.vercel.app)
 
-### AI, Data & Tools
+### [iEMS](https://github.com/HusainMain/iEMS) — role-based education platform
 
-<p>
-<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"/>
-<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
-<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-<img src="https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white"/>
-</p>
+Built in 24 hours at the CVMU state-level hackathon. Admin, teacher and student surfaces share one Firestore dataset, and access is enforced in security rules with a default-deny catch-all — not hidden in the client.
 
----
+`React 19` `Firebase` `Tailwind CSS`
 
-# 🧩 Problem Solving
+### [IPL match analysis](https://github.com/HusainMain/IPL_Analysis) — 1,095 matches, 260,920 deliveries
 
-<div align="center">
+Every IPL match from 2008 to 2024: 19 team names reconciled to 15 franchises, 1,160 missing values filled column by column. A validation pass caught a win-tally chart that had been silently dropping all 14 tied matches.
 
-### 🧠 40+ LeetCode Problems
+`Python` `pandas` `NumPy` `Matplotlib` `Seaborn`
 
-**Practicing Data Structures & Algorithms across core topics**
+### [BuildEx](https://github.com/HusainMain/buildex-website) — official club website
 
-<br>
+Site for SVIT's startup and entrepreneurship club. Canvas-drawn hexagonal hero, pinned-scroll storytelling, events and gallery fed from data modules. Every animated section honours `prefers-reduced-motion` and resolves to its end state.
 
-<a href="YOUR_LEETCODE_PROFILE_URL">
-<img src="https://img.shields.io/badge/LeetCode-40%2B%20Problems-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/>
-</a>
+`React 19` `TypeScript` `GSAP` `Tailwind CSS` `Vite` · [live](https://buildex-website-sooty.vercel.app)
 
-<br><br>
+### [SmartStudyPlanner](https://github.com/HusainMain/SmartStudyPlanner) — study planner with accounts
 
-`Arrays` • `Strings` • `Linked Lists` • `Stacks` • `Queues` • `Trees` • `Searching` • `Sorting`
+An Express and MongoDB API behind a vanilla JavaScript client: JWT sessions, bcrypt-hashed passwords, and separate models for users, tasks and subjects.
 
-</div>
+`Node.js` `Express` `MongoDB Atlas` `Mongoose` `JWT` · [live](https://smart-study-planner-pi-gules.vercel.app)
 
----
+### [Campus placement analysis](https://github.com/HusainMain/college-placement-analysis) — 215 MBA records
 
-# 📊 GitHub Activity
+Placement sat at 86.5% with work experience against 59.6% without — until a column check showed every one of the 148 salary offers is a round thousand. The dataset is synthetic, and the notebook opens by saying so.
 
-<div align="center">
+`Python` `pandas` `Matplotlib` `Seaborn`
 
-<img src="https://github-readme-stats.shion.dev/api?username=HusainMain&theme=dark&hide_border=true&include_all_commits=false&count_private=false" height="170"/>
+### [Healthcare appointment system](https://github.com/HusainMain/Healthcare_Appointment_System) — Java, no dependencies
 
-<img src="https://streak-stats.demolab.com/?user=HusainMain&theme=dark&hide_border=true" height="170"/>
+Six classes modelling appointment queues across seven doctors: a `Person` → `Doctor` / `Patient` hierarchy, an `Appointment`, and a `QueueManager` wrapping a `LinkedList` per doctor. In-memory by design.
 
-<br><br>
+`Java` `OOP` `Queue / LinkedList` `Exception handling`
 
-<img src="https://github-readme-stats.shion.dev/api/top-langs/?username=HusainMain&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact" height="150"/>
+## `02` — What I build with.
 
-</div>
+**LANGUAGES** `C` `Java` `Python` `JavaScript` `TypeScript` `SQL`
+
+**FRONTEND** `React` `Tailwind CSS` `GSAP` `Vite`
+
+**BACKEND** `Node.js` `Express` `Flask` `MongoDB` `Firebase` `Supabase`
+
+**DATA** `pandas` `NumPy` `Matplotlib` `Seaborn`
+
+**CLOUD & TOOLING** `AWS` `Vercel` `Render` `Git` `GitHub`
+
+## `03` — The record.
+
+**AWS Academy Cloud Foundations** — Training Badge, AWS Training and Certification · 82%
+
+**Finalist, CVMU Hackathon 4.0** — state-level, 24 hours, led a four-person team from problem statement to a working demo
+
+**LeetCode** — arrays, strings, two pointers, trees, hash tables, dynamic programming
 
 ---
 
-# ⚡ Beyond Code
-
-<div align="center">
-
-<table>
-<tr>
-
-<td align="center" width="20%">
-
-### 🏏
-**Cricket**
-
-Playing, competing and being part of team sports.
-
-</td>
-
-<td align="center" width="20%">
-
-### 🏓
-**Table Tennis**
-
-Staying competitive and active outside coding.
-
-</td>
-
-<td align="center" width="20%">
-
-### ♟️
-**Chess**
-
-Enjoying strategy, problem solving and competitive thinking.
-
-</td>
-
-<td align="center" width="20%">
-
-### 🏐
-**Volleyball**
-
-Teamwork, competition and staying active.
-
-</td>
-
-<td align="center" width="20%">
-
-### 💡
-**Ideas**
-
-If I get an interesting idea, my first instinct is usually to build it.
-
-</td>
-
-</tr>
-</table>
-
-</div>
-
----
-
-<div align="center">
-
-### ⚡ Keep Building. Keep Learning. Keep Improving.
-
-<br>
-
-<img src="https://komarev.com/ghpvc/?username=HusainMain&style=flat-square&color=blue" alt="Profile Views"/>
-
-</div>
+<sub>[LinkedIn](https://www.linkedin.com/in/husain-bardanwala) · [GitHub](https://github.com/HusainMain) · [Portfolio](https://port-folio-lilac-pi.vercel.app) · [LeetCode](https://leetcode.com/u/W9RFMcxTXL/) · [husainbardanwala65@gmail.com](mailto:husainbardanwala65@gmail.com)</sub>
